@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T10:43:40.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="GDCPnFgpPxEJEV19akNP" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:45:46.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="QrQPCSI9AeaMi_mjXf2m" version="21.0.2" type="github">
   <diagram name="Page-1" id="Ng_bMdYRIf5SXRzVOp7M">
     <mxGraphModel dx="357" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,17 +10,16 @@
             <mxPoint x="524" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYGwAnlmEdduF5FbGD0P-15" value="" style="shape=delay;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="374" y="780" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mYGwAnlmEdduF5FbGD0P-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mYGwAnlmEdduF5FbGD0P-19" target="mYGwAnlmEdduF5FbGD0P-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYGwAnlmEdduF5FbGD0P-19" value="Pievieno vērtības 8 rindām (no ROW_1 līdz ROW_8)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A94y0W3K5UmEOUNI3N2U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mYGwAnlmEdduF5FbGD0P-20" target="A94y0W3K5UmEOUNI3N2U-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A94y0W3K5UmEOUNI3N2U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mYGwAnlmEdduF5FbGD0P-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="555" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mYGwAnlmEdduF5FbGD0P-20" value="Pievieno vērtības 8 kolonām (no COL_1 līdz COL_8)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
@@ -43,8 +42,11 @@
         <mxCell id="mYGwAnlmEdduF5FbGD0P-24" value="COL_1...8 ir izejas 10...A3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A94y0W3K5UmEOUNI3N2U-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="A94y0W3K5UmEOUNI3N2U-3" value="Void setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A94y0W3K5UmEOUNI3N2U-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
